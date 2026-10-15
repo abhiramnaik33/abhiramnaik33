@@ -5,7 +5,7 @@
 I build secure, practical software, from machine-learning threat detection to AI agents and full-stack web apps.
 I'm a Cybersecurity student at GM University, and I like turning ideas into things people actually use.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhii--nine.vercel.app-111?style=for-the-badge&logo=vercel)](https://abhii-nine.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhiramgirishnaik.site-111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abhiramgirishnaik.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhiramgirishnaik-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhiramgirishnaik)
 
 ---
